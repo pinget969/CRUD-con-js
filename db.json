@@ -4,6 +4,16 @@
       "nombre": "Harland",
       "email": "harland@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "pedro",
+      "email": "pedro@emai",
+      "id": "4f6aaeaf-0e6f-4ef7-bd75-21c201156f4f"
+    },
+    {
+      "nombre": "Pibe",
+      "email": "cumbiero@",
+      "id": "c4f4398b-fed2-4ad0-90c5-dd58f8cda823"
     }
   ]
 }
